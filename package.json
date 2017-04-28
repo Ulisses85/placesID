@@ -1,0 +1,14 @@
+{
+  "name": "placesid",
+  "version": "1.0.0",
+  "description": "placesidtest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "placesid"
+  ],
+  "author": "Luaksz Kuligowski",
+  "license": "ISC"
+}
